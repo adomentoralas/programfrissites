@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>3.4.8.0</version>
-  <url>https://github.com/adomentoralas/programfrissites/blob/77748765262e818be6aae57eeedc06cbb7f282bd/docs/Release.zip</url>
+  <url>https://raw.githubusercontent.com/adomentoralas/programfrissites/main/docs/Release.zip</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
   <mandatory>false</mandatory>
 </item>
