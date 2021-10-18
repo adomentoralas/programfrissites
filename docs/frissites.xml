@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>3.4.8.0</version>
-  <url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+  <url>https://raw.githubusercontent.com/adomentoralas/programfrissites/main/docs/Release.zip</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
   <mandatory>false</mandatory>
 </item>
