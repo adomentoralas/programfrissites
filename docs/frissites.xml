@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<item>
-  <version>3.4.8.0</version>
-  <url>https://raw.githubusercontent.com/adomentoralas/programfrissites/main/docs/BizKonvSetup.msi</url>
-  <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
-  <mandatory>false</mandatory>
-</item>
