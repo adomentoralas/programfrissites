@@ -3,5 +3,5 @@
   <version>3.4.8.0</version>
   <url>https://raw.githubusercontent.com/adomentoralas/programfrissites/main/docs/Release.zip</url>
   <changelog>https://raw.githubusercontent.com/adomentoralas/programfrissites/main/docs/ujverzio.txt</changelog>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
 </item>
