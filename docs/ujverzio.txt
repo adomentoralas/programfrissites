@@ -1,0 +1,5 @@
+3.4.8 verzió
+
+Újdonságok, javítások:
+
+- A program minden induláskor automatikusan megkeresi a legújabb verziót, ami a felhasználó döntésének megfelelően azonnal fel is települ
