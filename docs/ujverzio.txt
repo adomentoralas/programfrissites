@@ -1,5 +1,0 @@
-3.4.9 verzió
-
-Újdonságok, javítások:
-
-- Kézi bank párosításnál felugró 'Kontírozás automatikus kiegészítése' ablak bővítése az árfolyamnyereséggel
