@@ -1,0 +1,7 @@
+3.4.9 verzió
+
+Újdonságok, javítások:
+
+- Kézi bank párosításnál felugró 'Kontírozás automatikus kiegészítése' ablak bővítése az árfolyamnyereséggel és árfolyamveszteséggel
+- A vevő/szállító számlák konvertálásakor az RLB számla megjegyzés szövege alapértelmezetten felveszi a 'Cégadatok szerkesztése'->'Kontírozás' fülön beállított vevő/szállító megjegyzést.
+  A számla kontírozás módosítása során ez a megjegyzés szöveg számlánként egyedileg szerkeszthető. 
