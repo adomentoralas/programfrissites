@@ -1,0 +1,10 @@
+3.5.0 verzió
+
+Újdonságok, javítások:
+
+- NAV Online számla: egyszerűsített adattartalmú számla tétel és áfakulcs összesítő sorok beolvasási hibájának javítása.
+- NAV Online számla: az adómentes hivatkozások kezelése (AAM, TAM, FAD), szöveges feltüntetésük a számlaképen.
+- A kontírozás áfakulcsainak bővítése a 'mentes' választási lehetőséggel.
+- A Konvertálás ablakban mostantól lehetőség van a NAV Online számlák azonnali letöltésére az időszak és a vevő/szállító irány megadásával.
+- A gazdasági esemény szótár működése megváltozott. Mostantól először a gazdasági eseményt kell először rögzíteni, majd azt követően lehet többféle szótár feltételt hozzá beállítani.
+- Az áfa kontírozása kibővítésre került a pénzforgalmi áfás cégeknél
