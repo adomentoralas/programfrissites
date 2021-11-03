@@ -1,5 +1,0 @@
-3.5.1 verzió
-
-Újdonságok, javítások:
-
-- Számlakontírok automatikus korrekciója akkor, ha a NAV Online számla áfa kulcsainak vagy tételeinek nettó, áfa és bruttó összege a tizedestörtek kerekítései miatt nem adja ki a számla végösszegét (ez a funkció bekapcsolható a Programbeállítások->Általános fülön)
