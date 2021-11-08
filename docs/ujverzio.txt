@@ -1,0 +1,6 @@
+3.5.3 verzió
+
+Újdonságok, javítások:
+
+- NAV Online számla devizás számlakép megjelenítése
+- Kisebb működési hibák javítása
