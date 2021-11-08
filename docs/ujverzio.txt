@@ -1,6 +1,0 @@
-3.5.2 verzió
-
-Újdonságok, javítások:
-
-- NAV Online számla előleg, módosítás, érvénytelenítés (storno) kezelése
-- Program leírás megjelenítése
