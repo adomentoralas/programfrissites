@@ -1,6 +1,0 @@
-3.5.5 verzió
-
-Újdonságok, javítások:
-
-- Vevő teljesítés lista fizetési mód szerinti tömeges kijelölése
-- Kisebb működési hibák javítása
