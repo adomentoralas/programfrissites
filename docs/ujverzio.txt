@@ -1,0 +1,6 @@
+3.5.7 verzió
+
+Újdonságok, javítások:
+
+- Konvertálás automatikus mentése a könyvelőprogramba betölthető fájl mentésekor
+- Kisebb működési hibák javítása
