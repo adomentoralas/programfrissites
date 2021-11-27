@@ -1,5 +1,0 @@
-3.5.8 verzió
-
-Újdonságok, javítások:
-
-- Pénzforgalmi áfa konvertálásának javítása
