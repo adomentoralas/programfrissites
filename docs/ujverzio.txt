@@ -1,7 +1,0 @@
-3.5.9 verzió
-
-Újdonságok, javítások:
-
-- NAV Online Számla listák és számlaadatok 34 napnál nagyobb időintervallumban is letölthetők
-- Bank automatikus párosítás találati hatékonyság növelés
-- Bank és Gazdasági esemény kontír szótárak tóbbszörös szótáregyezése esetén kézi kiválasztás lehetősége
