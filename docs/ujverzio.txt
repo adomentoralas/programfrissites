@@ -1,0 +1,6 @@
+3.6.1 verzió
+
+Újdonságok, javítások:
+
+- Csoportos utalások automatikus párosítása (vesszővel elválasztott bizonylatszámok a közleményben)
+- Kisebb működési hibák javítása
