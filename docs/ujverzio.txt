@@ -1,6 +1,0 @@
-3.6.0 verzió
-
-Újdonságok, javítások:
-
-- Kisebb működési hibák javítása
-- Cégek bankszámla adatainak kiegészítése a számlavezető bank nevével
