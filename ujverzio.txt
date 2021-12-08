@@ -1,0 +1,6 @@
+3.6.2 verzió
+
+Újdonságok, javítások:
+
+- Csoportos utalások automatikus párosítása közben a program megerősíést kér a bizonytalan párok esetében
+- A cégadatokban a címek és személyek már nem csak egy adatot tartalmazhatnak (pl. több telephely és több kontakt személy is rögzíthető)
