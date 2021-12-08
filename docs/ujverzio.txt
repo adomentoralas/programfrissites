@@ -1,0 +1,6 @@
+3.6.3 verzió
+
+Újdonságok, javítások:
+
+- Konvertáló ablakban kijelölt bizonylatok csoportos kiválasztása
+- Kisebb működési hibák javítása
