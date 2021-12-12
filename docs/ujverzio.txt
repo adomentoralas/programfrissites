@@ -1,0 +1,7 @@
+3.6.6 verzió
+
+Újdonságok, javítások:
+
+- A Bizonylat párosítás ablakban is lehetőség van mostantól a banki partnert a könyvelési partnerhez társítani.
+- Új funkció a Csoportos utalás varázsló (Bizonylat párosítás ablakban a tételen jobb gombbal kattintva jelenik meg), ami a bank párosításnál nyújt segítséget abban az esetben, ha a partner egy utalásban több számlát egyenlített ki. 
+- Kisebb működési hibák javítása
