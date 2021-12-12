@@ -1,5 +1,0 @@
-3.6.5 verzió
-
-Újdonságok, javítások:
-
-- Kisebb működési hibák javítása
