@@ -1,0 +1,5 @@
+3.6.8 verzió
+
+Újdonságok, javítások:
+
+- Kisebb működési hibák javítása
