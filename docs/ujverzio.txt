@@ -1,7 +1,0 @@
-3.6.7 verzió
-
-Újdonságok, javítások:
-
-- NAV Online számlalista és számlaadat letöltési sebesség növelése
-- Bizonylat beolvasás, konvertálás előrehaladásának kijelzése
-- Kisebb működési hibák javítása
