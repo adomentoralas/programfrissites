@@ -1,5 +1,0 @@
-3.6.9 verzió
-
-Újdonságok, javítások:
-
-- Bank automatikus párosítás megerősítő kérdést követő tétel duplázás javítása
