@@ -1,8 +1,0 @@
-3.7.1 verzió
-
-Újdonságok, javítások:
-
-- A többszörösen betöltött bizonylat fájlok ellenőrzése, a kimeneti állományba ugyan az a bizonylat csak egyszer kerül bele
-- Bank bizonylatok lekönyvelt állapotának ellenőrzése és kijelzése
-- Bank párosítás ablak funkcióinak bővítése
-- Kisebb működési hibák javítása
