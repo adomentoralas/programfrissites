@@ -1,0 +1,5 @@
+3.7.3 verzió
+
+Újdonságok, javítások:
+
+- NAV adóhatósági ellenőrzési adatszolgáltatás .xml árfolyamkeresési hiba javítása
