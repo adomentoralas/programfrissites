@@ -1,0 +1,7 @@
+3.7.6 verzió
+
+Újdonságok, javítások:
+
+- A nyitott listában szereplő vevő partnerek részére Fizetési emlékeztető, Fizetési felszólító levelek automatikus generálása
+- NAV adóhatósági ellenőrzési adatszolgáltatás .xml fájlok végösszeg kerekítési hibájának javítása
+- Kisebb működési hibák javítása
