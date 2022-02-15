@@ -1,0 +1,5 @@
+3.7.8 verzió
+
+Újdonságok, javítások:
+
+- NAV Online számla lista Excel export fájl kiegészítése vevőnkénti és szállítónkénti összesítő kimutatásokkal
