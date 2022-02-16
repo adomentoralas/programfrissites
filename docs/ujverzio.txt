@@ -1,0 +1,5 @@
+3.7.9 verzió
+
+Újdonságok, javítások:
+
+- Automatikus párosítás konvertálás közben megszakítható a megerősítő kérdés ablakból
