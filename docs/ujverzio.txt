@@ -1,0 +1,19 @@
+3.8.0 verzió
+
+Újdonságok, javítások:
+
+- A listák oszlopainak sorrendjei tetszőlegesen átrendezhetők
+- A 'Beállítások'>'Program beállítások' menüpontban a 'Kontírozás' fülön beállított kontírszámok és megjegyzések 
+  fognak megjelenni alapértelmezett adatként új cég hozzáadásakor
+- 'Beállítások'>'Cégadatok szerkesztése'>'Kontírozás' fülön beállíthatjuk, hogy a vevő/szállító számlák
+  fizetési módjuktől függetlenül mindig a vevő/szállító naplóba kerüljenek könyvelésre. Ugyan itt
+  beállítható az ehhez tartozó automatikus átkönyvelés naplója és főkönyvi száma is.
+- Amennyiben az eredetileg átutalásos vagy bankkártyás számlák fizetési módját a kontírozás módosításával átállítjuk
+  készpénzesre, úgy a program automatikusan elvégzi az előző pont szerinti beállításnak megfelelő
+  kiegyenlítést
+- A fenti kiegyenlítéseket tartalmazó .csv fájl beolvasása úgy történik az RLB programba, hogy a 'Könyvelés'>'Automatikus könyvelés csv-ből'
+  menüpontban kiválasztjuk az elmentett .csv állományt. A 'Napló' legördülő választéklistából az 'Összes napló' elemet választjuk ki, majd
+  megnyomjuk a 'Számlák könyvelése' gombot. Ekkor először a vevő és szállító napló tételei töltődnek be, és az RLB már fel fogja ismerni a
+  bizonylatszámokat, amire a kiegyenlítések hivatkoznak. Ezt követően ismét meg kell nyomni a 'Számlák könyvelése' gombot, ekkor már a
+  kiegyenlítések is sikeresen betöltődnek az RLB-be.
+- Kisebb működési hibák javítása
