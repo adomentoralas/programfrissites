@@ -1,0 +1,5 @@
+3.8.1 verzió
+
+Újdonságok, javítások:
+
+- Takarékbank bankszámlakivonat Text formátum (.stm kiterjesztésű fájl) beolvasása
