@@ -1,5 +1,0 @@
-3.8.7 verzió
-
-Újdonságok, javítások:
-
-- GLS csomagküldő angol fejléces lista .xlsx beolvasása
