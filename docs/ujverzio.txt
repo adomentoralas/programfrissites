@@ -1,5 +1,0 @@
-3.8.9 verzió
-
-Újdonságok, javítások:
-
-- kisebb működési hibák javítása
