@@ -1,0 +1,5 @@
+3.9.4 verzió
+
+Újdonságok, javítások:
+
+- GLS csomaglista .xlsx új verzió beolvasása
