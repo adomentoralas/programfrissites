@@ -1,5 +1,0 @@
-3.9.3 verzió
-
-Újdonságok, javítások:
-
-- vevő/szállító számla kontírozásnál ha átutalás helyett készpénzes kifizetést választunk, lehetőség van a dátum kézi megváltoztatáására
