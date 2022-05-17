@@ -1,5 +1,0 @@
-3.9.5 verzió
-
-Újdonságok, javítások:
-
-- Gránit Bank .xml bankszámlatörténet beolvasása
