@@ -1,0 +1,6 @@
+3.9.6 verzió
+
+Újdonságok, javítások:
+
+- Takarékbank .csv bankszámlatörténet beolvasása
+- kisebb működési hibák javítása
