@@ -1,0 +1,5 @@
+3.9.8 verzió
+
+Újdonságok, javítások:
+
+- Banki bizonylat könyvelésekor ha nincs banki pár és kontírszótár találat, akkor a kontírozási megjegyzéshez (ami alapesetben ’Banki tranzakció’) a program automatikusan, minden esetben hozzáfűzi a banki partner nevét.
