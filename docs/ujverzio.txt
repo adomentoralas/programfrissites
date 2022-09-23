@@ -1,5 +1,0 @@
-4.0.3 verzió
-
-Újdonságok, javítások:
-
-- GLS Csomagküldő összesítő .xls változáskövetés
