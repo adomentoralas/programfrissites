@@ -1,0 +1,5 @@
+4.0.7 verzió
+
+Újdonságok, javítások:
+
+- Bank kontír szótár hiba javítása
