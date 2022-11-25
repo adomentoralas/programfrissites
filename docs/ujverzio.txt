@@ -2,4 +2,4 @@
 
 Újdonságok, javítások:
 
-- Bank kontír szótár hiba javítása
+- CIB Bank beolvasás hiba javítása
