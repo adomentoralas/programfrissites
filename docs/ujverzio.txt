@@ -1,5 +1,0 @@
-4.0.7 verzió
-
-Újdonságok, javítások:
-
-- CIB Bank beolvasás hiba javítása
