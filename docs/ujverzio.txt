@@ -1,0 +1,5 @@
+4.0.9 verzió
+
+Újdonságok, javítások:
+
+- CIB Bank újfajta számlatörténet beolvasása
