@@ -1,0 +1,5 @@
+4.1.0 verzió
+
+Újdonságok, javítások:
+
+- GLS csomagfutár újfajta lista beolvasása
